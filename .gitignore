@@ -1,0 +1,10 @@
+# Code::Blocks junk
+bin/
+obj/
+*.cbp
+*.layout
+*.depend
+
+# Windows junk
+Thumbs.db
+Desktop.ini
